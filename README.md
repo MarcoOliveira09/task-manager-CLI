@@ -21,7 +21,4 @@ python main.py
 
 ## Roadmap
 
-- v2.0 - Better error handling
-- v3.0 - Save tasks to a file (persistence)
-- v4.0 - Refactor into functions
-- v5.0+ - More advanced features
+v2.0 - Soon...
